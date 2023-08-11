@@ -16,6 +16,10 @@ char order;
 
 int main()
 {
+    while(1){
+
+    
+    
     printf("Please enter the two numbers\n");
     scanf("%i%i", &num1, &num2);
 
@@ -37,6 +41,7 @@ int main()
 
     else
         printf("Please enter either a or d");
+        }
 
     return 0;
 }

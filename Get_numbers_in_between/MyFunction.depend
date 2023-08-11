@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1691595199 source:c:\diploma_projects\myfunction\ascending_order.c
+	<stdio.h>
+	<stdlib.h>
+
+1691595199 source:c:\diploma_projects\myfunction\descending_order.c
+	<stdio.h>
+	<stdlib.h>
+
+1691593668 source:c:\diploma_projects\myfunction\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ascending_order.h"
+	"Descending_order.h"
+
+1691592697 c:\diploma_projects\myfunction\ascending_order.h
+
+1691592697 c:\diploma_projects\myfunction\descending_order.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1692357085 source:c:\diploma_projects\adding_digits_v2\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1692357655 source:c:\diploma_projects\adding_digits_v2\numlen.c
+
